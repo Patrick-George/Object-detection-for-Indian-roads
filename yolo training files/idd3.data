@@ -1,0 +1,6 @@
+classes= 11
+train  = /home/interns/IDD_Detection/final_train.txt
+valid  = /home/interns/IDD_Detection/final_val.txt
+labels = /home/interns/IDD_Detection/final_label.txt
+names = cfg/idd3.names
+backup = backup/
