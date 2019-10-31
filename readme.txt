@@ -4,7 +4,7 @@ COLLABORATORS: PATRICK GEORGE(Email: 111601015@smail.iitpkd.ac.in, pattypatricia
                CHANDANA S.K(111701009@smail.iitpkd.ac.in,chandanashreekrishna@gmail.com)
 
 
-This folder consists of a dataset for Indian roads.
+This folder consists the files necessary for detecting objects on Indian roads.
 The classes in the dataset are namely:
 
 person
@@ -20,7 +20,7 @@ traffic sign
 traffic light
 
 
-This dataset is the modified version of the IDD dataset published by IIIT Hyderabad, which had the classes:
+This dataset is the modified version of the IDD dataset published by IIIT Hyderabad and Intel, which had the classes:
 
 bicycle
 bus
