@@ -1,6 +1,6 @@
 OBJECT DETECTION FOR AN AUTONOMOUS VEHICLE FOR INDIAN ROADS
 
-COLLABORATORS: PATRICK GEORGE(Email: 111601015@smail.iitpkd.ac.in, pattypatrician@gmail.com), 
+COLLABORATORS: PATRICK GEORGE(Email: patrickgeorgepg1@gmail.com), 
                CHANDANA S.K(111701009@smail.iitpkd.ac.in,chandanashreekrishna@gmail.com)
 
 
